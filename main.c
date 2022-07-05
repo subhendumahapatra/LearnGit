@@ -2,6 +2,6 @@
 #include<conio.h>
 main()
 {
-	printf(Enter your First Number:);
+	printf(Hello World);
 return 0;
 }
