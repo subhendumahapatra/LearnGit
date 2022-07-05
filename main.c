@@ -2,6 +2,6 @@
 #include<conio.h>
 main()
 {
-	printf(Hello World);
+	printf(This Program is to sum two numbers);
 return 0;
 }
